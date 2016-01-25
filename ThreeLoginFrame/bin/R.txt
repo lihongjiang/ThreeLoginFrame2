@@ -1,0 +1,4 @@
+int string app_name 0x7f020000
+int string qq_not_install 0x7f020003
+int string weixin_install_update 0x7f020002
+int string weixin_not_install 0x7f020001

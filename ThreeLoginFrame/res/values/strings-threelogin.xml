@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蜜芽</string>
+ 
+    <string name="weixin_not_install">请安装微信客户端</string>
+    <string name="weixin_install_update">请升级微信客户端，不支持api！</string>
+    <string name="qq_not_install">请安装QQ客户端</string>
+    
+</resources>
